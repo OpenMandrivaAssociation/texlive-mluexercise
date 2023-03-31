@@ -1,6 +1,6 @@
 Name:		texlive-mluexercise
 Version:	56927
-Release:	1
+Release:	2
 Summary:	Exercises/homework at the Martin Luther University Halle-Wittenberg
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mluexercise
