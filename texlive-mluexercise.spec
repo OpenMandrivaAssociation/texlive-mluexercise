@@ -3,7 +3,7 @@ Version:	56927
 Release:	2
 Summary:	Exercises/homework at the Martin Luther University Halle-Wittenberg
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mluexercise
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mluexercise
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mluexercise.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mluexercise.doc.r%{version}.tar.xz
